@@ -167,12 +167,8 @@ const Home = () => (
 
       <Section delay={0.2}>
         <Heading as="h3" variant="section-title">
-          Bio
+          Cursis
         </Heading>
-        <BioSection>
-          <BioYear>1991</BioYear>
-          né à Mampatim (Kolda), Sénégal.
-        </BioSection>
         <BioSection>
           <BioYear>2014</BioYear>
           Licence en info-com à l&apos;UCA.
