@@ -15,8 +15,8 @@ const Main = ({ children, router }) => {
     <Box as="main" pb={8}>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Mouhamed Gando's homepage" />
-        <meta name="author" content="Mouhamed Gando Diallo" />
+        <meta name="description" content="Gando's homepage" />
+        <meta name="author" content="Gando Diallo" />
         <meta name="author" content="craftzdog" />
         <link rel="apple-touch-icon" href="apple-touch-icon.png" />
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
@@ -24,7 +24,7 @@ const Main = ({ children, router }) => {
         <meta name="twitter:site" content="@craftzdog" />
         <meta name="twitter:creator" content="@craftzdog" />
         <meta name="twitter:image" content="/card.png" />
-        <meta property="og:site_name" content="Mouhamed Gando's Homepage" />
+        <meta property="og:site_name" content="Gando's Homepage" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/card.png" />
         <title>Gando Diallo - Homepage</title>
